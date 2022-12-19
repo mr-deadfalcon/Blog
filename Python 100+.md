@@ -67,4 +67,4 @@ is - это оператор, который проверяет идентичн
 - import math as m
 - from math import e, ceil as c
 - from sys import *
-- from music.formats.wavwrite import writeFile
+- from music.formats import wavwrite
