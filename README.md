@@ -11,3 +11,6 @@ https://www.cpubenchmark.net/
 
 ## Инструмент для подбора цвета
 https://color.adobe.com/ru/create/color-wheel
+
+## Подбор шрифта
+https://fonts-online.ru/
