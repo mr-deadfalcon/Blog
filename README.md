@@ -8,3 +8,6 @@ https://habr.com/ru/post/676110/
 
 ## Сервис для сравнения производительности процессоров  
 https://www.cpubenchmark.net/
+
+## Инструмент для подбора цвета
+https://color.adobe.com/ru/create/color-wheel
