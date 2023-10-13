@@ -14,3 +14,6 @@ https://color.adobe.com/ru/create/color-wheel
 
 ## Подбор шрифта
 https://fonts-online.ru/
+
+## Борисов Евгений. Spring Patetrns  
+https://www.youtube.com/watch?v=61duchvKI6o
